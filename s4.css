@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+   color: cornflowerblue;
+    margin: 5px;
+    padding: 2px;
+}
+header,
+footer{
+    text-align: center;
+    background-color: rgb(199, 193, 193);
+}
+letter1{
+    color: black;
+    text-decoration-line: underline;
+    font-size: 120%;
+}
