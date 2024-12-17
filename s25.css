@@ -1,0 +1,42 @@
+body{
+    background-color: aliceblue;
+    color: cornflowerblue;
+    margin: 5px;
+    padding: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header,
+footer{
+    text-align: center;
+    background-color: rgb(199, 193, 193);
+}
+p{
+    text-align: justify;
+    text-indent: 8ch;
+}
+
+h2,
+h3,
+h4{
+    color: crimson;
+    
+}
+h1{
+    color: crimson;
+  size: 500%;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;}
+    .top-left {
+        position: absolute;
+        top: 8px;
+        left: 16px;
+    }
+    .bottom-left {
+        position: absolute;
+        bottom: 8px;
+        left: 16px;
+    }
+   
